@@ -3,3 +3,5 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("i am Lewis");
+
+string myName = "Lewis";
